@@ -9,27 +9,35 @@
 
 I'm a Computer Science student specializing in AI & Machine Learning with a passion for **making technology accessible through excellent documentation**. Currently on a 60-day journey contributing to open source projects while mastering RPA and AI automation.
 
-- 🔭 **Working on:** Consistent documentation contributions
 - 🌱 **Learning:** UiPath RPA, AI Automation, Document Understanding
 - 💬 **Languages:** English, Hindi, Telugu
 - 📫 **Reach me:** dakshinamurthy.vemuri@gmail.com
 - 🎯 **Goal:** Summer 2026 internship in DevRel/Technical Writing
+🔭 Working on:
+- Improving open-source documentation clarity and onboarding
+- Learning UiPath RPA through real documentation artifacts
+- Building a public technical writing portfolio
+
   
 All learning is documented live at github.com/dmurthy-dev/learning-in-public
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
+🛠️ Tools & Skills
+- Documentation: Markdown, GitHub Docs
+- Automation: UiPath Studio Web (learning)
+- Version Control: GitHub (web-based workflow)
+- Languages: Python (reading & examples)
 
 ---
 
-## 📊 GitHub Stats
+📌 Open Source Activity
+- Documentation improvements (clarity, examples, onboarding)
+- Internationalization awareness (Hindi / Telugu)
+- Governance & contributor experience (README, CONTRIBUTING, workflows)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmurthy-dev&show_icons=true&count_private=true&cache_seconds=1800)
+Live log of work → https://github.com/dmurthy-dev/learning-in-public
 
 ---
 

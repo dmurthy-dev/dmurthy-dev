@@ -23,9 +23,13 @@ I'm a Computer Science student specializing in AI & Machine Learning with a pass
 All learning is documented live at github.com/dmurthy-dev/learning-in-public
 ---
 
-## 🛠️ Tech Stack
+📌 Open Source Activity
+- Documentation improvements (clarity, examples, onboarding)
+- Internationalization awareness (Hindi / Telugu)
+- Governance & contributor experience (README, CONTRIBUTING, workflows)
 
-🛠️ Tools & Skills
+---
+## 🛠️ Tools & Skills
 - Documentation: Markdown, GitHub Docs
 - Automation: UiPath Studio Web (learning)
 - Version Control: GitHub (web-based workflow)
@@ -33,10 +37,6 @@ All learning is documented live at github.com/dmurthy-dev/learning-in-public
 
 ---
 
-📌 Open Source Activity
-- Documentation improvements (clarity, examples, onboarding)
-- Internationalization awareness (Hindi / Telugu)
-- Governance & contributor experience (README, CONTRIBUTING, workflows)
 
 Live log of work → https://github.com/dmurthy-dev/learning-in-public
 

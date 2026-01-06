@@ -9,12 +9,13 @@
 
 I'm a Computer Science student specializing in AI & Machine Learning with a passion for **making technology accessible through excellent documentation**. Currently on a 60-day journey contributing to open source projects while mastering RPA and AI automation.
 
-- 🔭 **Working on:** Contributing to 50+ open source documentation projects
+- 🔭 **Working on:** Consistent documentation contributions
 - 🌱 **Learning:** UiPath RPA, AI Automation, Document Understanding
 - 💬 **Languages:** English, Hindi, Telugu
 - 📫 **Reach me:** dakshinamurthy.vemuri@gmail.com
 - 🎯 **Goal:** Summer 2026 internship in DevRel/Technical Writing
-
+  
+All learning is documented live at github.com/dmurthy-dev/learning-in-public
 ---
 
 ## 🛠️ Tech Stack

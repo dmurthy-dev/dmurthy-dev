@@ -32,7 +32,7 @@ I'm a Computer Science student specializing in AI & Machine Learning with a pass
 
 ---
 
-## 🎯 Current Focus (Jan-Mar 2025)
+## 🎯 Current Focus (Jan-Mar 2026)
 
 - ✅ 60-day open source documentation challenge
 - ✅ UiPath RPA Developer certification path

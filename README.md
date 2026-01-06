@@ -29,7 +29,7 @@ All learning is documented live at github.com/dmurthy-dev/learning-in-public
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmurthy-dev&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmurthy-dev&show_icons=true&count_private=true&cache_seconds=1800)
 
 ---
 

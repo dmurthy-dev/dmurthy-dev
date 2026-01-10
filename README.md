@@ -1,7 +1,7 @@
 # Hi there, I'm Venkata Subrahmanya Dakshina Murthy Vemuri 👋
 
 ### 🎓 BTech AI & ML Student | JNTU Hyderabad | Class of 2026
-### 📝 Technical Writer | Open Source Contributor | RPA & Automation Enthusiast
+### 📝 Technical Documentation (Learning-in-Public) | Open Source Documentation (Early Stage) | RPA & Automation
 
 ---
 

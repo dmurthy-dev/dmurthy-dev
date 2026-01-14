@@ -1,3 +1,15 @@
+<!-- Engagement & Activity (stable) -->
+![GitHub Followers](https://img.shields.io/github/followers/dmurthy-dev?label=Follow&style=social)
+![Repo Stars](https://img.shields.io/github/stars/dmurthy-dev?style=social)
+![Portfolio Activity](https://img.shields.io/github/commit-activity/m/dmurthy-dev/learning-in-public?style=flat-square)
+![Total Repositories](https://img.shields.io/badge/Repositories-3-blue)
+
+<!-- STATIC fallback if dynamic graph breaks -->
+![Status](https://img.shields.io/badge/Status-Active%20Learning-blue)
+
+<!-- Contribution graph (use vetted graph host; fallback below) -->
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmurthy-dev&theme=react-dark&area=true)
+
 ## Hi, I’m Venkata Subrahmanya Dakshina Murthy 👋
 
 I’m a B.Tech Computer Science (AI & ML) student focused on **technical documentation**, **automation**, and **open-source contributor experience**.
@@ -22,3 +34,5 @@ I’m a B.Tech Computer Science (AI & ML) student focused on **technical documen
 - Location: India
 
 I value clarity, correctness, and honest documentation over superficial activity.
+
+> Note: AI tools are used for writing clarity only. All technical decisions, commits, and contributions are my own.
